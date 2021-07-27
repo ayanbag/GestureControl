@@ -1,0 +1,10 @@
+autopy==4.0.0
+matplotlib==3.4.2
+mediapipe==0.8.6
+numpy==1.19.5
+opencv-contrib-python==4.5.3.56
+opencv-python==4.5.3.56
+Pillow==8.3.1
+pycaw==20181226
+
+
